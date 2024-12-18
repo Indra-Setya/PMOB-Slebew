@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "152455189040",
+    "firebase_url": "https://pmobile24-8-default-rtdb.firebaseio.com",
+    "project_id": "pmobile24-8",
+    "storage_bucket": "pmobile24-8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152455189040:android:ada16615ba6d839a4313f5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnRUY345bSS4DqyP4vv--Qhlgnsjyn_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152455189040:android:b03e989a154e6b2f4313f5",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan8_ajah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnRUY345bSS4DqyP4vv--Qhlgnsjyn_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
